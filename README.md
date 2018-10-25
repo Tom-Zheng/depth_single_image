@@ -4,6 +4,9 @@ cnn_depth_tensorflow is an implementation of depth estimation using tensorflow.
 Original paper is "Depth Map Prediction from a Single Image using a Multi-Scale Deep Network".
 https://arxiv.org/abs/1406.2283
 
+Presentation of this project:
+https://docs.google.com/presentation/d/1ytuDdWJUG9VTK7wCVm3BzbW1uuGI_sRgH0TCZc1PNe0/edit?usp=sharing
+
 ## requierments
 - TensorFlow 1.3 with python 2.7
 - Numpy
